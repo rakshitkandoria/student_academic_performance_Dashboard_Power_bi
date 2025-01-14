@@ -13,7 +13,7 @@ The Students' Academic Performance Dashboard provides insights into students' le
 - **Class Participation**: Based on different learning styles.
 
 ## Dashboard 🖼️
-![Screenshot 2025-01-13 000227](https://github.com/user-attachments/assets/a6c7ee40-d5bd-4076-a8c0-53d4046b9337)
+![Screenshot 2025-01-13 000227](https://github.com/user-attachments/assets/f6ad90b8-e5f0-4adb-a02e-394c1e4fc908)
 
 
 ## 🔍 Insights
